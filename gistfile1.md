@@ -19,4 +19,4 @@ Here are things a customer champion at Zapier might do in no particular order. L
 * Scheduling shifts and collaborating as part of a growing cohesive support team 
 * Engage multiple users at once via chat to answer their questions and troubleshoot problems
 * Work with people to figure out if Zapier can solve a particular workflow or integration challenge they have
-* Recieve 20+ inbound calls per day and help them solve their issues 
+* Recieve 20+ inbound phone calls per day and help them solve their issues 
