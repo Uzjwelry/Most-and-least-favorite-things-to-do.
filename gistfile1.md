@@ -16,3 +16,4 @@ Here are things a customer champion at Zapier might do in no particular order. L
 * Work with the product team to develop a new feature based on feedback from customers
 * Respond to Zapier fans on Twitter, Facebook, Reddit, and other 3rd party sites
 * Act as a dedicated rep for a handful of key customers to ensure their success using Zapier
+* Scheduling shifts and collaborating as part of a growing cohesive support team 
