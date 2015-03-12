@@ -7,7 +7,7 @@ Here are things a customer champion at Zapier might do in no particular order. 5
 * Work with the product team to develop a new feature based on feedback from customers
 
  5 things that are least favorite
-* Dig through activity logs to troubleshoot a customer's broken Zap
+* Find and recruit teammates for the support team
 * Write and maintain thousands of pages of help documentation
 * Ghostwrite documentation for partners to publish on thier own sites
 * Work with 3rd party partners to track down a tricky situation for a joint customer
